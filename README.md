@@ -76,6 +76,7 @@ https://www.huobi.io/zh-cn/
 
 联系邮箱（定期更换）
 ----------  
+有效期 2020.2.15-2020.2.20 :   
 alt.v4-93ph618@yopmail.com     
 
 
@@ -199,6 +200,8 @@ After the above operations are completed, you can see the assets of hop
 
 Contact email (regular replacement)
 ----
+
+Valid from February 15, 2020 to February 20, 2020:  
 
 alt.v4-93ph618@yopmail.com    
    
