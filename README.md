@@ -2,20 +2,25 @@
 
 # HOPECOIN（HOP）
 
-2020年以来世界格局激烈震荡，全球性的危机不断发生，受灾的人民群众不断增加，邀请有志之士慷慨出手。
+自从人类诞生以来，全球灾难就不断侵袭人类，轻则影响了人民的正常发展和生活，重则造成巨大的经济倒退。
 
-HOPE代表了新希望，唤醒有奉献能力的人群，可以抚平不安的躁动，获得新的生活。
+2020年新年开始，世界格局激烈震荡，全球性的危机一如既往地发生，受灾的人民群众不断增加。
+
+HOPE代表了新希望，唤醒有奉献能力的人群，可以抚平不安的躁动，获得新的生活，邀请有志之士慷慨出手。
 
 HOPE采用了区块链技术100%保障，用区块链技术进行捐赠，使每一份捐赠都能获得一份代币，让每一份捐赠都能够有所得。
-代币还能再次参与捐赠，完成慈善基金的若干个心愿，希望大家积极参与。建议1ETH起捐。HOPE将在终点等你。   
+本代币还能再次参与捐赠，完成慈善基金的若干个心愿，希望大家积极参与。
+
+建议1ETH起捐。HOPE将在终点等你。   
 
 ##2020年以来的灾难：   
 
 澳大利亚大火灾  
 武汉肺炎SARI灾  
 非洲蝗虫灾  
+甘肃火灾     
 
-
+     
 HOPE的愿景  
 ----------------
 把盈利的50%以上部分用于慈善捐赠，50%用于市值的管理，同时希望每一位持币者都能够参与完成这一愿景。
@@ -92,29 +97,34 @@ alt.v4-93ph618@yopmail.com
        ---         ---         ---   ---   ---        
                                                       
                                                       
- # HOPECOIN   
+ Since the birth of human beings, global disasters have continuously attacked human beings, affecting the normal development and life of the people.
 
 
-Since 2020, the world pattern has been in violent shock, global crisis has occurred continuously, the number of people affected by the disaster has been increasing, and people with lofty ideals have been invited to give generously.
+
+Since the beginning of the new year 2020, the world situation has been severely shaken. As always, the global crisis has occurred, and the number of people affected by the disaster is increasing.
 
 
-Hope represents the new hope, which can awaken the people who have the ability of dedication, calm the restlessness and get a new life.
+
+Hope represents the new hope. It can awaken the people with the ability of dedication, calm the restlessness, get a new life, and invite the people with lofty ideals to give generously.
 
 
-Hopecoin adopts blockchain technology for 100% guarantee, and uses blockchain technology for donation, so that each donation can get a token, and each donation can have income.
 
-The token can also participate in donation again and fulfill several wishes of the charity fund. I hope you can participate actively.
+Hope adopts blockchain technology for 100% guarantee, and makes donations with blockchain technology, so that each donation can get a token and each donation can have income.
 
-Suggestion 1 eth donation
-
-Hope will wait for you at the end.
+This token can also participate in donation again and fulfill several wishes of the charity fund. I hope you can participate actively.
 
 
-##Disasters since 2020:  
 
-Great fire in Australia  
-SARS in Wuhan  
-Locust disaster in Afric    
+It is suggested that 1eth donate. Hope will wait for you at the end.
+
+
+
+##Disasters since 2020:
+
+Great fire in Australia
+SARS in Wuhan
+Locust disaster in Africa
+Gansu fire
 
    
 
